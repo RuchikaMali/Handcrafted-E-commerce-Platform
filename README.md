@@ -39,7 +39,7 @@ Fully optimized for both desktop and mobile devices to ensure a smooth experienc
 
 🚀 Getting Started
 1. Clone the Repository
-           git clone https://github.com/yourusername/kalakriti-creations.git
+           (https://github.com/RuchikaMali/Handcrafted-E-commerce-Platform.git)
    
 3. Backend Setup (Spring Boot)
            Import as Maven Project.
